@@ -13,6 +13,7 @@ A React application that allows users to search for GitHub users and view their 
 ## Technologies Used
 
 - React
+- Tanstack Query
 - JavaScript (ES6+)
 - GitHub API
 - CSS3
